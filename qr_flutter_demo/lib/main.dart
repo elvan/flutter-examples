@@ -17,7 +17,8 @@ class MyApp extends StatelessWidget {
             foregroundColor: Colors.black87,
             errorCorrectionLevel: QrErrorCorrectLevel.M,
             padding: EdgeInsets.all(30),
-            data: 'https://github.com/elvan/flutter-examples/qr_flutter_demo',
+            data:
+                'https://github.com/elvan/flutter-examples/tree/main/qr_flutter_demo',
           ),
         ),
       ),
